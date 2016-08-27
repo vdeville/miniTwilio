@@ -1,0 +1,12 @@
+{
+  "sid" : "",
+  "token" : "",
+
+  "default" : {
+    "from" : "+16464900142"
+  },
+
+  "authorized_keys" : [
+    "apiKEY1"
+  ]
+}
